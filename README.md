@@ -1,4 +1,9 @@
-# Deep Learning 
+# Deep Learning
+
+- Python
+- Dlib
+- PIL
+- Histogram of Oriented Gradients(HOG)
 
  * Face Landmark 
  * Face Detection 

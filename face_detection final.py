@@ -1,4 +1,5 @@
-#Linkedin Learning 
+# Linkedin Learning 
+# Python 6.6.
 
 import PIL.Image
 import PIL.ImageDraw

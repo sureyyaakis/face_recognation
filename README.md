@@ -4,7 +4,7 @@
 - Dlib
 - PIL
 - Histogram of Oriented Gradients(HOG)
-
+----
  * Face Landmark 
  * Face Detection 
  * Face Encoding 

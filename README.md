@@ -1,2 +1,6 @@
-# face_recognation
-Face Recognation
+# Deep Learning 
+
+ * Face Landmark 
+ * Face Detection 
+ * Face Encoding 
+ * Face Recognition 
